@@ -15,4 +15,5 @@
      Electronics-->Digital
    ```
  - **Analog Electronics** is a branch of electronics that deals with the time varying electrical signals whereas **Digital Electronics** deals with data that is binary in nature in forms of 0's and 1's.
+ - A multimeter is a low cost all in one meter that measures various parameters such as voltage,current,frequency,test diodes,measure passive component values and so on. 
 </details>
