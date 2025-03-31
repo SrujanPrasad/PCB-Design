@@ -14,5 +14,5 @@
      Electronics-->Analog
      Electronics-->Digital
    ```
- 
+ - **Analog Electronics** is a branch of electronics that deals with the time varying electrical signals whereas **Digital Electronics** deals with data that is binary in nature in forms of 0's and 1's.
 </details>
