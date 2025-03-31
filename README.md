@@ -23,4 +23,8 @@
    Passive-->Capacitor
    Passive-->Inductor
    ```
+- **Digital Electronics** is a two state logic (0 or 1).Digital systems are always an approximate of the output.
+- International System of Units or **SI Unit** is the widely accepted measurement unit.
+-  *Scientific Notation* is standard way of writing numbers in mathematics.
+-  All components in digital electronics are in terms of *Integrated Circuits*.
 </details>
