@@ -6,5 +6,13 @@
 
 <details>
  <summary>31/03/2025</summary>
- - **Electronics**
+ 
+ - **Electronics** is derived from the word **electron**
+ - There are two branches :
+   ```mermaid
+     graph TD;
+     Electronics-->Analog
+     Electronics-->Digital
+   ```
+ 
 </details>
