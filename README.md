@@ -23,13 +23,17 @@
    Passive-->Capacitor
    Passive-->Inductor
    ```
-- **Digital Electronics** is a two state logic (0 or 1).Digital systems are always an approximate of the output.
-- International System of Units or **SI Unit** is the widely accepted measurement unit.
--  *Scientific Notation* is standard way of writing numbers in mathematics.
+- **Digital Electronics** is a two-state logic (0 or 1).Digital systems always approximate the output.
+- The International System of Units or **SI Unit** is the widely accepted measurement unit.
+-  *Scientific Notation* is the standard way of writing numbers in mathematics.
 -  All components in digital electronics are in terms of *Integrated Circuits*.
 </details>
 
 <details>
  <summary>10/04/2025</summary>
- 
+
+ - **Atomic Weight** = Number of protons + Number of neutrons
+ - *Electrons* are the negatively charged carriers and *holes* are the positively charged carriers.
+ - Electron flow results in a current flow called **electron current** and the current that results from the flow of holes is called **conventional current**.
+   
  </details>
