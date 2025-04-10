@@ -39,15 +39,33 @@
           $`
             I=Q/C
    `$
- - Current flows from *higher potential* to *lower potential* (from (+) to (-)).
+ - Current flows from *higher potential* to *lower potential* (from (+) to (-)).Current comes out of the higher potential.
  - The power expression is given by $` P=V*I `$.
  - **Voltage** is defined as potential energy per unit charge i.e $` 1V=1 J/1 C `$.
  - The positive Part of the battery is *anode* and the negative part of the battery is the *cathode*.
  - If we interchange the leads of measurement like cathode to + and anode to - then we are measuring the negative voltage.
  - In the series connection of the batteries the current flowing through all remains the same and the voltage gets added up, whereas in parallel the current gets divided and voltages remain the same.
  - DC motors, attenuators, etc works on the principle of Electromagnetic induction given  by Micheal Faraday.
- - Photoelectric effect by Albert Einstein. Photon energy causes the excitation of electrons i.e $` E(ev)=h*v `$ where E is energy, h is Plancks constant and v is the frequency that is given by $` v= c/ lambda `$
-   
+ - Photoelectric effect by Albert Einstein. Photon energy causes the excitation of electrons i.e $` E(ev)=h*v `$ where E is energy, h is Planck's constant, and v is the frequency that is given by $` v= c/ lambda `$
+ - Types of  dependent sources
+   ```mermaid
+   graph TD
+      Dependent-->VCVS
+      Dependent-->CCVS
+      Dependent-->VCCS
+      Dependent-->CCCS
+   ``` 
+ - A current that varies as a function of time is called as **Alternating Current**.
+ - Root Mean Square (RMS) value of voltage = $` Vrms=Vm/2 `$
+ - $` Vpp=2\sqrt{2} *Vrms `$ is the peak to peak voltage.
+ - **Ohm's Law** states that "Voltage is proportional to the current that is independent of the process parameters."
+   $` V=I*R `$
+ - Power is defined as the rate of change in energy.
+   $` P=V*dQ/dt `$
+ - Instantaneous Power in the steady-state AC circuit is given by
+   $` Pmax= Imax*Vmax `$
+ - Maximum Instantaneous Power in the steady AC circuit is given by
+   $` Pmax= Vp*Ip*cos(phi) `$
  - 
    
  </details>
