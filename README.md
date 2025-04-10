@@ -28,3 +28,8 @@
 -  *Scientific Notation* is standard way of writing numbers in mathematics.
 -  All components in digital electronics are in terms of *Integrated Circuits*.
 </details>
+
+<details>
+ <summary>10/04/2025</summary>
+ 
+ </details>
